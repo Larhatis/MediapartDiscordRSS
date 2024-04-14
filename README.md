@@ -13,6 +13,7 @@ Pour utiliser ce script, remplacez l'URL du flux RSS et l'URL du webhook Discord
 Par défaut, le script enregistre la liste des articles déjà postés dans un fichier nommé fichierMediaprout.rss dans le répertoire courant. Si le fichier n'existe pas, le script le créera automatiquement.
 
 Dépendances
+
 Ce script nécessite les bibliothèques Python suivantes :
 
 requests : pour envoyer des requêtes HTTP à l'API Discord.
